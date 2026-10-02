@@ -1,0 +1,9 @@
+,Best_Method,Best_Value,Rule
+PSNR,DCP.Fattal,10.816,higher is better
+SSIM,CAP.Fattal,0.1812,higher is better
+MSE,DCP.Fattal,5430.6248,lower is better
+CIEDE2000,CAP.Fattal,21.2716,lower is better
+Entropy,DCP.Fattal,7.6931,higher is better
+Contrast,DCP.CAP,62.7392,higher is better
+AvgGradient,DCP.Fattal,62.9282,higher is better
+Colorfulness,DCP.Fattal,21.4932,higher is better
